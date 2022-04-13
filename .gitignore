@@ -1,2 +1,6 @@
 appinventor-sources
 appinventor-sources/*
+
+aix-ransom/.appinventor
+aix-ransom/out
+aix-ransom/build
